@@ -33,8 +33,33 @@ p {
     padding: 10px;
     margin: 16px 45px 16px 45px;
 }
-
 span {
     font-weight: bold;
     border-bottom: #e2e272 solid 2px;
+}
+.image1,.image2,.image3 {
+    width: 200px;
+    margin-left: 0em;
+    text-align: center;
+    display: inline-block;
+}
+
+.image4,.image5,.image6 {
+    display: inline-block;
+    width: 200;
+    text-align: center;
+}
+
+.main1 {
+    margin-left: 36px;
+    margin-top: -15px;
+    padding: 10px;
+    width: 96%;
+}
+
+.main2 {
+    margin-left: 36px;
+    margin-top: -15px;
+    padding: 10px;
+    width: 96%;
 }
